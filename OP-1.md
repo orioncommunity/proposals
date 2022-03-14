@@ -27,8 +27,8 @@ To promote the mutual sharing of security information.
 6. The ORiON DAO shall ensure that all decisions, rules, policies, projects will not violate the Mission or Constitution.
 
 # Vote
-Voting YES ratifies the Mission, Goals, and Constitution. 
+Voting FOR ratifies the Mission, Goals, and Constitution. 
 
-Voting NO does not ratify the Mission, Goals, and Constitution. 
+Voting AGAINST does not ratify the Mission, Goals, and Constitution. 
 
-With a majority YES vote, the community will see the Mission, Goals, and Constitution as ratified.
+With a majority FOR vote, the community will see the Mission, Goals, and Constitution as ratified.
